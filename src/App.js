@@ -1,7 +1,7 @@
 import React from 'react';
 import Movie from './components/Movie';
 import { useEffect, useState } from 'react';
-import { Featured_API } from './config/Key';
+import { Featured_API, SEARCH_API} from './config/Key';
 
 
 function App() {
@@ -22,7 +22,7 @@ function App() {
 
       if(searchTerm)   {
 
-        fetch(`https://api.themoviedb.org/3/search/movie?&api_key=4f790ac4d97736336cc69ca0f10e2d4a&query=${searchTerm}`)
+        fetch(`https://api.themoviedb.org/3/search/movie?&api_key=${SEARCH_API}&query=${searchTerm}`)
         .then(response => response.json())
         .then(data => setMovies(data.results))
 
