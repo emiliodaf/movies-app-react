@@ -1,3 +1,26 @@
+
+Following the same concept of the recent projects as well as we did previously we have consumed a TMDB api of the most popular movies where we applied some key javascript functionalities and Logic in order to create a search component  to search the popular movies and we added some css animation like a hoverable movie card  with some transition and tranforms that made it a really charming movie-overview component at the end the final result was realy cool.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
