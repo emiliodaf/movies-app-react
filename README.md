@@ -1,6 +1,10 @@
 
 Following the same concept of the recent projects as well as we did previously we have consumed a TMDB api of the most popular movies where we applied some key javascript functionalities and Logic in order to create a search component  to search the popular movies and we added some css animation like a hoverable movie card  with some transition and tranforms that made it a really charming movie-overview component at the end the final result was realy cool.
 
+
+![ezgif com-optimize](https://user-images.githubusercontent.com/85713266/228014453-5440b7fa-77b6-4461-a551-2bba66537b0f.gif)
+
+
 ![Movies-app-01](https://user-images.githubusercontent.com/85713266/192656188-3cba99f0-f150-47df-bcee-73131fe09acb.jpg)
 
 ![Movies-app-02](https://user-images.githubusercontent.com/85713266/192656195-7c828cc0-799f-41d5-bc7d-298a091effab.jpg)
