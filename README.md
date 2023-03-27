@@ -5,29 +5,6 @@ Following the same concept of the recent projects as well as we did previously w
 ![ezgif com-optimize](https://user-images.githubusercontent.com/85713266/228014453-5440b7fa-77b6-4461-a551-2bba66537b0f.gif)
 
 
-![Movies-app-01](https://user-images.githubusercontent.com/85713266/192656188-3cba99f0-f150-47df-bcee-73131fe09acb.jpg)
-
-![Movies-app-02](https://user-images.githubusercontent.com/85713266/192656195-7c828cc0-799f-41d5-bc7d-298a091effab.jpg)
-
-![Movies-app-03](https://user-images.githubusercontent.com/85713266/192656201-4861c29c-58af-4069-bc4a-8dd1c92d489e.jpg)
-
-![Movies-app-04](https://user-images.githubusercontent.com/85713266/192656217-aaeea775-4926-4c71-9af0-a646bcf199ff.jpg)
-
-
-
-![Movies-app-05](https://user-images.githubusercontent.com/85713266/192656233-8e23dfb6-3e44-4e85-b2f3-02441a9496c7.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Getting Started with Create React App
